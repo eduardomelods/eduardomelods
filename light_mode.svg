@@ -29,7 +29,7 @@
         <text x="20" y="60"><tspan class="prompt-user">eduardo@dev</tspan><tspan class="prompt-sym">:</tspan><tspan class="prompt-dir">~</tspan><tspan class="prompt-sym">$</tspan> cat dev_profile.txt</text>
         
         <text x="20" y="90">--------------------------------------------------------------------------</text>
-        <text x="20" y="115"><tspan class="key">Uptime:</tspan>         <tspan id="age_data_dots"> </tspan><tspan id="age_data">20 years, 3 months, 26 days</tspan></text>
+        <text x="20" y="115"><tspan class="key">Uptime:</tspan>         <tspan id="age_data_dots"> </tspan><tspan id="age_data">20 years, 3 months, 27 days</tspan></text>
         <text x="20" y="135"><tspan class="key">OS:</tspan>             Windows 11, WSL2 Ubuntu, Fedora</text>
         <text x="20" y="155"><tspan class="key">Degree:</tspan>       Systems Analysis and Development</text>
         <text x="20" y="175"><tspan class="key">Role:</tspan>        IT Support &amp; Infrastructure -&gt; DevOps/Cloud</text>
